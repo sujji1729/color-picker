@@ -1,0 +1,86 @@
+
+.bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.color-picker {
+    font-family: "Open Sans";
+    font-weight: bold;
+    text-align: center;
+    color: #222222;
+}
+
+.background-color {
+    background-color: #222222;
+    font-family: "Open Sans";
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 23px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.discription {
+    font-family: "Open Sans";
+    text-align: center;
+    color: #222222;
+    padding: 2px;
+}
+
+.buttonn1 {
+    background-color: #e0e0e0;
+    border-color: #222222;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 3px;
+    padding: 15px;
+    height: 80px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 10px;
+
+}
+
+.buttonn2 {
+    background-color: #6fcf97;
+    border-color: #222222;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 3px;
+    padding: 15px;
+    height: 80px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.buttonn3 {
+    background-color: #56ccf2;
+    border-color: #222222;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 3px;
+    padding: 15px;
+    height: 80px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.buttonn4 {
+    background-color: #bb6bd9;
+    border-color: #222222;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 3px;
+    padding: 15px;
+    height: 80px;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 12px;
+}
